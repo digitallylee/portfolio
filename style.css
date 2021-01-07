@@ -140,7 +140,7 @@ body {margin:0;}
   background-color: #f2efe0;
   position: fixed;
   top: 0;
-  width: 20%;
+  width: 350px;
   font-family: Roboto Mono;
   font-weight: 100;
   font-style: thin;
@@ -186,7 +186,7 @@ body {
   background-color: #f2efe0;
   position: fixed;
   bottom: 0;
-  width: 30%;
+  width: 350px;
   font-family: Roboto Mono;
   font-weight: 100;
   font-style: thin;
