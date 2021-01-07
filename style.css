@@ -137,7 +137,7 @@ body {margin:0;}
 
 .navbar {
   overflow: hidden;
-  background-color:
+  background-color: transparent; 
   position: fixed;
   top: 0;
   width: 50%;
@@ -183,7 +183,7 @@ body {
 
 .bomnavbar {
   overflow: hidden;
-  background-color:
+  background-color:transparent; 
   position: fixed;
   bottom: 0;
   width: 50%;
