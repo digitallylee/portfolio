@@ -81,7 +81,7 @@ div.content {
   margin-left: 600px;
   margin-top: 100px;
   padding: 1px 16px;
-  height: 1000px;
+  height: 1200px;
   color: #0e0a01;
   font-family: Roboto Mono;
   font-weight: 100;
@@ -140,7 +140,7 @@ body {margin:0;}
   background-color: #f2efe0;
   position: fixed;
   top: 0;
-  width: 50%;
+  width: 20%;
   font-family: Roboto Mono;
   font-weight: 100;
   font-style: thin;
@@ -186,7 +186,7 @@ body {
   background-color: #f2efe0;
   position: fixed;
   bottom: 0;
-  width: 50%;
+  width: 30%;
   font-family: Roboto Mono;
   font-weight: 100;
   font-style: thin;
